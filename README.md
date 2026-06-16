@@ -14,10 +14,14 @@
 📫 Entre em contato comigo pelo LinkedIn ou GitHub
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossantana-hub&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=carlossantana-hub&theme=dark)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlossantana-hub&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=carlossantana-hub&theme=dark" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantana-hub&layout=compact&theme=dark)
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantana-hub&layout=compact&theme=dark" />
+</p>
 
 ![](https://komarev.com/ghpvc/?username=carlossantana-hub&color=blue)
 
@@ -33,6 +37,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" />
 </p>
 
-
+<p>
+  <a href="https://www.linkedin.com/in/carlos-santana-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:csscarlos.santanasilva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
