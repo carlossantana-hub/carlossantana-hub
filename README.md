@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**carlossantana-hub/carlossantana-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, eu sou o Carlos 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Engenharia de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Gosto de criar projetos que unem criatividade e sistemas
+
+📚 Sempre buscando aprender algo novo e colocar a mão na massa
+
+🌎 Estudando inglês e buscando me conectar com pessoas de diferentes países
+
+🤝 Aberto a trocar conhecimento e colaborar em projetos interessantes
+
+📫 Entre em contato comigo pelo LinkedIn ou GitHub
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossantana-hub&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=carlossantana-hub&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantana-hub&layout=compact&theme=dark)
+
+![](https://komarev.com/ghpvc/?username=carlossantana-hub&color=blue)
