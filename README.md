@@ -15,8 +15,8 @@
 
 
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=carlossantana-hub&show_icons=true&theme=tokyonight" />
-  <img height="175em" src="https://streak-stats.demolab.com?user=carlossantana-hub&theme=dark" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=carlossantana-hub&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=carlossantana-hub&theme=dark" />
 </p>
 
 <p align="center">
