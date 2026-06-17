@@ -15,12 +15,12 @@
 
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=carlossantana-hub&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=carlossantana-hub&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlossantana-hub&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantana-hub&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantana-hub&layout=compact&theme=dark" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=carlossantana-hub&theme=dark" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=carlossantana-hub&color=blue)
