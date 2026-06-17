@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlossantana-hub&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlossantana-hub&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantana-hub&layout=compact&theme=tokyonight" />
 </p>
 
