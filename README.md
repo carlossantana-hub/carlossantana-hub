@@ -1,3 +1,6 @@
+<table>
+  <tr>
+    <td>
 
 ## Olá, eu sou o Carlos 👋
 
@@ -11,7 +14,14 @@
 
 🤝 Aberto a trocar conhecimento e colaborar em projetos interessantes
 
-📫 Entre em contato comigo pelo LinkedIn ou GitHub
+📬 Entre em contato comigo pelo LinkedIn ou GitHub
+
+    </td>
+    <td>
+      <img src="ezgif.com-animated-gif-maker.gif" width="180px">
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
