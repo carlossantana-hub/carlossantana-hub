@@ -25,6 +25,9 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=carlossantana-hub&color=blue)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/carlossantana-hub/carlossantana-hub/output/github-contribution-grid-snake.svg">
+</p>
 
 
 ## 
