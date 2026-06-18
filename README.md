@@ -1,8 +1,7 @@
-<table>
-  <tr>
-    <td>
 
 ## Olá, eu sou o Carlos 👋
+
+<img align="right" src="avatar.gif" width="180">
 
 🎓 Estudante de Engenharia de Software
 
@@ -15,14 +14,6 @@
 🤝 Aberto a trocar conhecimento e colaborar em projetos interessantes
 
 📬 Entre em contato comigo pelo LinkedIn ou GitHub
-
-    </td>
-    <td>
-      <img src="ezgif.com-animated-gif-maker.gif" width="180px">
-    </td>
-  </tr>
-</table>
-
 
 <p align="center">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=carlossantana-hub&show_icons=true&theme=tokyonight&cache_seconds=1800" />
@@ -56,5 +47,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
