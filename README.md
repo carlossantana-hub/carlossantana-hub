@@ -20,10 +20,6 @@
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossantana-hub&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=carlossantana-hub&theme=dark" />
-</p>
-
 ![](https://komarev.com/ghpvc/?username=carlossantana-hub&color=blue)
 <p align="center">
   <img src="https://raw.githubusercontent.com/carlossantana-hub/carlossantana-hub/output/github-contribution-grid-snake.svg">
